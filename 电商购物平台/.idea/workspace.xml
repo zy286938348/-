@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9eaf641b-fbc2-4ab9-ab08-71bc1e8ee1b2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/java/stu/AbstractSinger.java" />
+        <option value="$PROJECT_DIR$/src/cn/java/stu/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/cn/java/stu/PopSinger.java" />
+        <option value="$PROJECT_DIR$/src/cn/java/stu/Text.java" />
+        <option value="$PROJECT_DIR$/src/cn/java/stu/Main.java" />
+        <option value="$PROJECT_DIR$/src/cn/campsg/gm/Book.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/impl/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/test/UserDAOImplTest.java" />
+        <option value="$PROJECT_DIR$/src/cn/campsg/gm/BookDataSet.java" />
+        <option value="$PROJECT_DIR$/src/cn/utils/Message.java" />
+        <option value="$PROJECT_DIR$/src/cn/DrawIcon.java" />
+        <option value="$PROJECT_DIR$/src/login.txt" />
+        <option value="$PROJECT_DIR$/src/cn/utils/FButils.java" />
+        <option value="$PROJECT_DIR$/src/cn/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/cn/service/BookService.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/BookDAO.java" />
+        <option value="$PROJECT_DIR$/src/cn/service/impl/BookServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/test/BookDAOTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3942dd26-e1af-48d4-9474-eebe8a4fde67/console.sql" />
+        <option value="$PROJECT_DIR$/src/cn/dao/impl/BookDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/test/UserDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/commodity.java" />
+        <option value="$PROJECT_DIR$/src/cn/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/impl/UserDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/UserMsg.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/login.java" />
+        <option value="$PROJECT_DIR$/src/cn/utils/DBUtils.java" />
+        <option value="$PROJECT_DIR$/src/cn/entity/Book.java" />
+        <option value="$PROJECT_DIR$/src/cn/utils/BuyUtils.java" />
+        <option value="$PROJECT_DIR$/src/cn/entity/UserBook.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/impl/BuyDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/User.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/UserBuy.java" />
+        <option value="$PROJECT_DIR$/src/cn/Final.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/commodityAdmin.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/commodityUser.java" />
+        <option value="$PROJECT_DIR$/src/cn/windows/admin.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/impl/BookDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/impl/BuyBookDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/BookDao.java" />
+        <option value="$PROJECT_DIR$/src/cn/dao/BuyBook.java" />
+        <option value="$PROJECT_DIR$/src/cn/frame/admin.java" />
+        <option value="$PROJECT_DIR$/src/cn/frame/commodityUser.java" />
+        <option value="$PROJECT_DIR$/src/cn/frame/UserBuy.java" />
+        <option value="$PROJECT_DIR$/src/cn/frame/UserMsg.java" />
+        <option value="$PROJECT_DIR$/src/cn/frame/login.java" />
+        <option value="$PROJECT_DIR$/src/text.jfd" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2205" />
+    <option name="y" value="-26" />
+    <option name="width" value="960" />
+    <option name="height" value="510" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cn/image" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\课程文件\电商购物平台\src\cn\image" />
+      <recent name="C:\Users\Administrator\Desktop\电商购物平台\src\cn\image" />
+      <recent name="C:\Users\lenovo\Desktop\电商购物平台\src\cn\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.windows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\课程文件\电商购物平台\src\cn\image" />
+      <recent name="C:\Users\Administrator\Desktop\电商购物平台\src\cn\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="UserBuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.frame.UserBuy" />
+      <module name="电商购物平台" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.test.UserDAOTest" />
+      <module name="电商购物平台" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.frame.admin" />
+      <module name="电商购物平台" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.frame.login" />
+      <module name="电商购物平台" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="电商购物平台" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.UserDAOTest" />
+      <item itemvalue="Application.login" />
+      <item itemvalue="Application.admin" />
+      <item itemvalue="Application.UserBuy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.admin" />
+        <item itemvalue="Application.UserBuy" />
+        <item itemvalue="Application.login" />
+        <item itemvalue="Application.UserDAOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eaf641b-fbc2-4ab9-ab08-71bc1e8ee1b2" name="Default Changelist" comment="" />
+      <created>1571397129841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571397129841</updated>
+      <workItem from="1571397134392" duration="9343000" />
+      <workItem from="1571543483653" duration="1193000" />
+      <workItem from="1571546806389" duration="239000" />
+      <workItem from="1571665998690" duration="453000" />
+      <workItem from="1571725933955" duration="3712000" />
+      <workItem from="1571747559552" duration="1353000" />
+      <workItem from="1571820156393" duration="160000" />
+      <workItem from="1572007618930" duration="3812000" />
+      <workItem from="1572185030623" duration="100000" />
+      <workItem from="1572528363313" duration="284000" />
+      <workItem from="1572567762883" duration="2602000" />
+      <workItem from="1572605214252" duration="1686000" />
+      <workItem from="1573209822406" duration="10102000" />
+      <workItem from="1573651101390" duration="2364000" />
+      <workItem from="1574671095253" duration="14759000" />
+      <workItem from="1574759618651" duration="1818000" />
+      <workItem from="1574820318162" duration="8344000" />
+      <workItem from="1574838259374" duration="23084000" />
+      <workItem from="1574937204507" duration="13562000" />
+      <workItem from="1575010296839" duration="691000" />
+      <workItem from="1575011299096" duration="4929000" />
+      <workItem from="1575030359227" duration="7218000" />
+      <workItem from="1575126171202" duration="3666000" />
+      <workItem from="1575200406351" duration="10106000" />
+      <workItem from="1575251867090" duration="6630000" />
+      <workItem from="1575278378727" duration="15152000" />
+      <workItem from="1575295845999" duration="219000" />
+      <workItem from="1575331805061" duration="3135000" />
+      <workItem from="1575336498118" duration="1230000" />
+      <workItem from="1575445471293" duration="408000" />
+      <workItem from="1576126332579" duration="1032000" />
+      <workItem from="1576295803175" duration="943000" />
+      <workItem from="1576477523168" duration="207000" />
+      <workItem from="1576477772700" duration="414000" />
+      <workItem from="1576478221352" duration="602000" />
+      <workItem from="1576478856041" duration="635000" />
+      <workItem from="1576645484319" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156573000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.12351029" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5308776" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.14409535" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.41386783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.18390192" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.32983023" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/Java/jdk1.8.0_131/src.zip!/javax/swing/JOptionPane.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/DrawIcon.java" />
+    <entry file="file://$PROJECT_DIR$/src/login" />
+    <entry file="das://3942dd26-e1af-48d4-9474-eebe8a4fde67/schema/bookmarket/table/book.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3942dd26-e1af-48d4-9474-eebe8a4fde67/console.sql" />
+    <entry file="file://$PROJECT_DIR$/src/cn/test/BookDAOTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/service/impl/UserServiceImpl.java" />
+    <entry file="jar://E:/Java/jdk1.8.0_131/src.zip!/javax/swing/plaf/basic/BasicButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="251" column="18" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/service/BookService.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/service/UserService.java" />
+    <entry file="jar://$PROJECT_DIR$/src/cn/lib/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/MysqlIO.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="2767" selection-start-line="2767" selection-end-line="2767" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/src/cn/lib/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="337" selection-start-line="337" selection-end-line="337" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_131/src.zip!/javax/swing/SwingConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="107" column="47" lean-forward="true" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/电商购物平台/src/cn/campsg/gm/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/电商购物平台/src/cn/campsg/gm/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/电商购物平台/src/cn/campsg/gm/BookDataSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="12" column="84" lean-forward="true" selection-start-line="12" selection-start-column="84" selection-end-line="12" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/service/impl/BookServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/test/UserDAOTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/dao/impl/BuyBookDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="873">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dao/impl/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-736">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dao/BuyBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dao/BookDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/entity/UserBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/entity/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-664">
+          <caret line="44" column="100" selection-start-line="44" selection-start-column="100" selection-end-line="44" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/frame/admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="173" column="22" selection-start-line="173" selection-start-column="22" selection-end-line="173" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/frame/UserBuy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="161" column="1" selection-start-line="161" selection-start-column="1" selection-end-line="161" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MainClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/frame/commodityUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="227" column="5" selection-start-line="227" selection-start-column="5" selection-end-line="227" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#bookList#0;class#commodityUser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarket.sql" />
+    <entry file="file://$PROJECT_DIR$/src/cn/frame/UserMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="43" column="34" lean-forward="true" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2089#2090#0" expanded="true" />
+            <element signature="e#3870#3871#0" expanded="true" />
+            <element signature="e#3911#3912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loginUser.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/login.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/Refresh.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/Refresh3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/Refresh2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/Refresh4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/User1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/Final.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/frame/login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4060">
+          <caret line="166" column="48" lean-forward="true" selection-start-line="166" selection-start-column="48" selection-end-line="166" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/image/user2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/utils/FButils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2581">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/utils/BuyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="16" selection-start-line="16" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/dao/impl/BookDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2196">
+          <caret line="197" column="1" selection-start-line="197" selection-start-column="1" selection-end-line="197" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/frame/commodityAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#1683#1684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/utils/DBUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="101" column="34" lean-forward="true" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
+          <folding>
+            <element signature="method#initComponents#0;class#text#0" />
+            <marker date="1576479087614" expanded="false" signature="301:2974" ph="// JFormDesigner - Component initialization - DO NOT MODIFY" />
+            <marker date="1576479087614" expanded="true" signature="2986:3358" ph="// JFormDesigner - Variables declaration - DO NOT MODIFY" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/text.jfd">
+      <provider selected="true" editor-type-id="JFormDesigner" />
+    </entry>
+  </component>
+</project>
